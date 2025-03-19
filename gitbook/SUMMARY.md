@@ -718,7 +718,7 @@
 	* [06　『新的开始』](markdown/ch/chapter090/06.md)
 	* [幕间　『卡秋娅・奥雷利』](markdown/ch/chapter090/06_5.md)
 	* [07　『沙风的再会』](markdown/ch/chapter090/07.md)
-	* [08　『后悔的方式。』](markdown/ch/chapter090/08.md)
+	* [08　『后悔的方式』](markdown/ch/chapter090/08.md)
 	* [09　『高效率魔导式诱导门』](markdown/ch/chapter090/09.md)
 	* [10　『期限是三天』](markdown/ch/chapter090/10.md)
 	* [11　『你已经不在任何地方了』](markdown/ch/chapter090/11.md)
