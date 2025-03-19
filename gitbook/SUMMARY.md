@@ -731,7 +731,7 @@
 	* [18　『百倍麻烦』](markdown/ch/chapter090/18.md)
 	* [19　『背后的争斗』](markdown/ch/chapter090/19.md)
 	* [20　『生命的使用方式』](markdown/ch/chapter090/20.md)
-	* [21　『《从零开始的异世界生活》中，"巴尔加・克罗姆威尔" 是一本涉及该角色或相关事件的章节标题。在中文中，可以将其润色为“巴尔加・克罗姆威尔的命运”或“巴尔加・克罗姆威尔的抉择”，这更能体现角色的经历或情感深度。』](markdown/ch/chapter090/21.md)
+	* [21　『巴尔加・克罗姆威尔』](markdown/ch/chapter090/21.md)
 	* [22　『战斗的终结之法』](markdown/ch/chapter090/22.md)
 	* [23　『群英荟萃』](markdown/ch/chapter090/23.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
