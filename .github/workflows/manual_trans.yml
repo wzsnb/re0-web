@@ -2,6 +2,8 @@
 name: Manual Translation Novel
 on:
   # 手动触发
+  # raw_filepath 和 raw_dirpath 哪个非空则执行哪个
+  # 如果两个都非空，只会执行 raw_filepath
   workflow_dispatch:
     inputs:
       raw_filepath:
@@ -9,10 +11,15 @@ on:
         required: true
         default: './gitbook/markdown/ch/chapter999/ex/00.md'
         type: string
+      raw_dirpath:
+        description: '待翻译的目录路径'
+        required: true
+        default: './gitbook/markdown/ch/chapter999/ex'
+        type: string
 
 
 jobs:
-  crawl:
+  translate:
     runs-on: ubuntu-latest
     # 当仓库隶属组织时，赋予流水线“写权限”以便提交变更
     permissions:
@@ -56,7 +63,7 @@ jobs:
 
       - name: Translate
         run: |-
-          python ./py/translate.py -g "${{ secrets.GPT_KEY }}" -t "${{ github.event.inputs.raw_filepath }}"
+          python ./py/translate.py -g "${{ secrets.GPT_KEY }}" -t "${{ github.event.inputs.raw_filepath }}" -d "${{ github.event.inputs.raw_dirpath }}"
 
       - name: Build
         run: |-

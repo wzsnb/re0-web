@@ -7,6 +7,7 @@
 import argparse
 from common.utils import *
 from common.trans import *
+from format import format_dir, format_file
 from transgpt.translate import *
 from common.settings import *
 from color_log.clog import log
@@ -23,6 +24,7 @@ def args() :
     parser.add_argument('-k', '--api_key', dest='api_key', type=str, default="", help='腾讯翻译 API KEY')
     parser.add_argument('-g', '--gpt_key', dest='gpt_key', type=str, default="", help='ChatGPT KEY')
     parser.add_argument('-t', '--trans_path', dest='trans_path', type=str, default="", help='待翻译的文件路径')
+    parser.add_argument('-d', '--trans_dir', dest='trans_dir', type=str, default="", help='待翻译的目录路径')
     parser.add_argument('-s', '--host', dest='host', type=str, default="127.0.0.1", help='HTTP 代理 IP')
     parser.add_argument('-p', '--port', dest='port', type=int, default=0, help='HTTP 代理端口')
     return parser.parse_args()
@@ -30,8 +32,29 @@ def args() :
 
 
 def main(args) :
-    translate(args, args.trans_path)
+    # 翻译单个文件
+    if args.trans_path:
+        translate(args, args.trans_path)
+        format_dir(args.trans_path)
 
+    # 翻译目录
+    elif args.trans_dir:
+        trans_dir(args, args.trans_dir)
+        format_file(args.trans_dir)
+
+
+
+def trans_dir(args, dirpath) :
+    for root, dirs, names in os.walk(dirpath):
+        for name in names:
+            if not name.endswith(".md") :
+                continue
+            
+            if name == "README.md":
+                continue
+
+            filepath = os.path.join(root, name)
+            translate(args, filepath)
 
 
 def translate(args, filepath) :
