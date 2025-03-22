@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://re0zero.top/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Mar 2025 06:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 09:07:19 GMT</lastBuildDate>
         <atom:link href="https://re0zero.top/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -296,7 +296,8 @@
 | エッゾ・カドナ | 艾莎・卡德纳 | - | 第九章 | 隶属菲鲁特阵营，被 梅莉 称为『老师』的矮小男子，能够同时发动不同系的组合魔法『伪装咏唱』+『无咏唱』魔法，略逊于罗兹瓦尔的王国最强魔法师 |
 | マンフレッド・マディソン | 曼弗雷德・麦迪森 | - | 第九章 | 『地龙之都』黑帮『天秤』的头目，与菲鲁特阵营是同盟关系。本身言语拥有拥有『强制的加护』，左眼是盗取别人的，还拥有『远望的加护』的能力 |
 | トト | 托托 | - | 第九章 | 『地龙之都』黑帮『华狱园』的女头目，称号『邪毒妇』，汉巴里 的女朋友，与菲鲁特阵营是同盟关系 |
-| ドルテロ・アムル | 多尔泰罗・阿穆尔 | - | 第九章 | 『猪王』，带着猪面具的男人，『黑银货』的头目，与菲鲁特阵营是同盟关系 |]]></description>
+| ドルテロ・アムル | 多尔泰罗・阿穆尔 | - | 第九章 | 『猪王』，带着猪面具的男人，『黑银货』的头目，与菲鲁特阵营是同盟关系 |
+| リネック | 莱雷克 | - | 第八章 | 亚人，土鼠人，爱丽丝的老师 |]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/translation.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/translation.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -5599,21 +5600,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『爱丽丝与荆棘之王』]]></title>
-            <description><![CDATA[——古老的故事讲述道。
-那是一个独自为王的男人，与一名少女之间的故事。
-本是孤身一人的王遇到了少女，从此不再孤单的故事。
-讲述了孤独的王的奋战，以及预测着他的成功与帝位争夺战的开启。
-讲述了渴望陪伴在王身旁，坚定自己内心信念的少女的决心。
-然而，王与少女的愿望和想法，被止不住的血流、生命的逝去，以及无数终结的积累所蒙蔽，逐渐黯淡。
-故事开始发生变化。
-变质始于王的战斗，和某个突袭少女的不幸事件。
-※※※※※※※※※※※※※※※※※※※※※※※
-——就在眨眼之间，「选帝仪式」开始了。
-这便是爱丽丝的直接感受，也是让她深深自责的原因，因为这样的自己显得远远不够。
-她早有心理准备。然而，却被告知这不过是自以为是的幻想罢了。
-说实话，爱丽丝一直认为「选帝仪式」的开始还遥遥无期——想来尤加尔多为了成为皇帝而进行的真正争斗，应该是许多年后的事。
-然而，抱有这样悠闲想法的似乎只有爱丽丝一个人。]]></description>
+            <title><![CDATA[『爱丽丝与荆棘之王』（後編）]]></title>
+            <description><![CDATA[——古老的故事讲述道。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter999/ex/02.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter999/ex/02.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
