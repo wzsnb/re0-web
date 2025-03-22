@@ -54,7 +54,7 @@ jobs:
         run: |
           python -m pip install -r requirements.txt
 
-      - name: Crawl
+      - name: Translate
         run: |-
           python ./py/translate.py -g "${{ secrets.GPT_KEY }}" -t "${{ github.event.inputs.raw_filepath }}"
 
