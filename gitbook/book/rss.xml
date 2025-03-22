@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://re0zero.top/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Mar 2025 04:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 06:39:15 GMT</lastBuildDate>
         <atom:link href="https://re0zero.top/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -267,6 +267,8 @@
 | ジョズロ | 乔瑟 | - | 第七章 | 昴在剑奴孤岛组建的『普雷阿迪斯战团』团员之一 |
 | アイリス・テリオラ | 爱丽丝・特里奥拉 | - | 第七章 | 『爱丽丝与荆棘之王』故事的女主角，被荆棘之王施以血咒，因灵魂被诅咒无法『记忆的回廊』轮回，导致不断在现世寻找新的躯壳转生。今世转生为『极彩色』尤尔娜・米希格蕾；前一世则附身到桑德拉・贝尼迪克特，其为普莉丝卡・贝尼迪克特（普莉希拉・跋利耶尔）的母亲 |
 | 茨の王 | 荆棘之王 | - | 第七章 | 『爱丽丝与荆棘之王』故事的男主角，本名 尤加尔多・佛拉基亚，对爱丽丝施以血咒，让爱丽丝的灵魂绑缚在帝国大地上无法轮回（地缚灵？） |
+| ラドカイン・ヴォラキア | 拉德卡・佛拉基亚 | - | 第八章 | 佛拉基亚第六十代皇帝，尤加尔多 的父皇 |
+| ユーガルド・エルカンティ | 尤加尔多・艾尔阿汉提 | - | 第八章 | 尤加尔多 在继承帝名之前的本名 |
 | ユーガルド・ヴォラキア | 尤加尔多・佛拉基亚 | - | 第八章 | 佛拉基亚第六十一代皇帝，『荆棘之王』『荆棘帝』，喜欢用荆棘的痛苦束缚并驯服他人 |
 | ドライゼン・ヴォラキア | 德赖森・佛拉基亚 | - | 第七章 | 佛拉基亚帝国历史上的皇帝，有二十多个子女，在主线中出现的主要有 文森特・埃布尔克斯、 拉米娅・戈德温，还有一个女儿则作为『噬灵者』亚拉基亚的『柱』。从 亚拉基亚 对 普莉希拉 的态度分析，普莉希拉 的前世 普莉丝卡 就是其女儿 |
 | イズメイル | 伊斯梅尔 | - | 第七章 | 单眼族的勇士，有『巨眼』的称号 |
@@ -5590,14 +5592,28 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『爱丽丝与荆棘之王』]]></title>
+            <title><![CDATA[『爱丽丝与荆棘之王』（前編）]]></title>
             <description><![CDATA[古老的故事这样讲述着：这是一个关于一位国王和一位少女的故事。孤独的国王与少女相遇，从此不再孤单。这个故事如同瞬息即逝的回忆一般短暂，却又如烈焰般热烈，令人愿以一切相换，直至献身于未来。这个故事在漫长岁月里，依然如炽热的火焰般在人的心中燃烧不熄。正是这样一个承载着未曾被编纂入史实的古老故事。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter999/ex/01.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter999/ex/01.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『アイリスと茨の王』（後編）]]></title>
+            <title><![CDATA[『爱丽丝与荆棘之王』]]></title>
+            <description><![CDATA[——古老的故事讲述道。
+那是一个独自为王的男人，与一名少女之间的故事。
+本是孤身一人的王遇到了少女，从此不再孤单的故事。
+讲述了孤独的王的奋战，以及预测着他的成功与帝位争夺战的开启。
+讲述了渴望陪伴在王身旁，坚定自己内心信念的少女的决心。
+然而，王与少女的愿望和想法，被止不住的血流、生命的逝去，以及无数终结的积累所蒙蔽，逐渐黯淡。
+故事开始发生变化。
+变质始于王的战斗，和某个突袭少女的不幸事件。
+※※※※※※※※※※※※※※※※※※※※※※※
+——就在眨眼之间，「选帝仪式」开始了。
+这便是爱丽丝的直接感受，也是让她深深自责的原因，因为这样的自己显得远远不够。
+她早有心理准备。然而，却被告知这不过是自以为是的幻想罢了。
+说实话，爱丽丝一直认为「选帝仪式」的开始还遥遥无期——想来尤加尔多为了成为皇帝而进行的真正争斗，应该是许多年后的事。
+然而，抱有这样悠闲想法的似乎只有爱丽丝一个人。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter999/ex/02.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter999/ex/02.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
