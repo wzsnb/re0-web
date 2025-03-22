@@ -35,12 +35,12 @@ def main(args) :
     # 翻译单个文件
     if args.trans_path:
         translate(args, args.trans_path)
-        format_dir(args.trans_path)
+        format_file(args.trans_path)
 
     # 翻译目录
     elif args.trans_dir:
         trans_dir(args, args.trans_dir)
-        format_file(args.trans_dir)
+        format_dir(args.trans_dir)
 
 
 
