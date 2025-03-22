@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://re0zero.top/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Mar 2025 02:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 04:14:18 GMT</lastBuildDate>
         <atom:link href="https://re0zero.top/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -100,7 +100,7 @@
 | 兜ヤロー | 头盔佬 | - | 第九章 | 菲鲁特 对阿尔的 蔑称 |
 | 兜野郎 | 头盔佬 | - | 第九章 | 拉珍斯 对阿尔的 蔑称 |
 | リリアナ・マスカレード | 莉莉安娜・马斯可芮德 | - | 第五章 | 『歌姫』 |
-| ハインケル・アストレア | 亨克尔・阿斯特雷亚 | 海因克尔・阿斯特雷亚 | 第五章 | 莱因哈鲁特 的流氓父亲，他人称为王国的『吃白饭的』 |
+| ハインケル・アストレア | 亨克尔・阿斯特雷亚 | 海因格・阿斯特雷亚 | 第五章 | 莱因哈鲁特 的流氓父亲，他人称为王国的『吃白饭的』 |
 | 赤毛さん | 红发先生 | - | 第七章 | 弗洛普 对 亨克尔 的称呼 |
 | 親父さん | 大叔 | 他爸 | 第七章 | 阿尔 对 亨克尔 的称呼 |
 | シュルト | 修尔特 | - | 第五章 | 普莉希拉的仆人，身上寄宿着 普莉希拉 的灵魂力量（魂婚术）使其免于致命伤害 |
@@ -5590,7 +5590,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『アイリスと茨の王』（前編）]]></title>
+            <title><![CDATA[『爱丽丝与荆棘之王』]]></title>
+            <description><![CDATA[古老的故事这样讲述着：这是一个关于一位国王和一位少女的故事。孤独的国王与少女相遇，从此不再孤单。这个故事如同瞬息即逝的回忆一般短暂，却又如烈焰般热烈，令人愿以一切相换，直至献身于未来。这个故事在漫长岁月里，依然如炽热的火焰般在人的心中燃烧不熄。正是这样一个承载着未曾被编纂入史实的古老故事。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter999/ex/01.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter999/ex/01.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -5840,18 +5841,21 @@
         </item>
         <item>
             <title><![CDATA[『只要是为了你』]]></title>
+            <description><![CDATA[To Be Continue ... 缺失原文]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter999/special/bd/03.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter999/special/bd/03.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『什么都能成』]]></title>
+            <description><![CDATA[To Be Continue ... 缺失原文]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter999/special/bd/04.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter999/special/bd/04.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[结尾 『幸福的意思』]]></title>
+            <description><![CDATA[To Be Continue ... 缺失原文]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter999/special/bd/05.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter999/special/bd/05.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
@@ -6116,7 +6120,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『隠れ里の鬼姉妹Ex　祝福の日』]]></title>
+            <title><![CDATA[『从零开始的前日谭　隐世村的鬼姐妹Ex-祝福之日』]]></title>
             <description><![CDATA[「让我们来庆祝一下吧。」]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter999/short05/08.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter999/short05/08.html</guid>
