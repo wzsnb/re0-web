@@ -738,7 +738,7 @@
 	* [25　『爱蜜莉娅的震怒』](markdown/ch/chapter090/25.md)
 	* [26　『剑鬼对决红樱』](markdown/ch/chapter090/26.md)
 	* [27　『幼子的言辞』](markdown/ch/chapter090/27.md)
-	* [28　『传说中的一节』](markdown/ch/chapter090/28.md)
+	* [28　『传说的一节』](markdown/ch/chapter090/28.md)
 	* [29　『最终席位』](markdown/ch/chapter090/29.md)
 	* [30　『备用计划』](markdown/ch/chapter090/30.md)
 	* [31　『百分百的工作』](markdown/ch/chapter090/31.md)
