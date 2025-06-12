@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://re0zero.top/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Jun 2025 02:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 20:02:48 GMT</lastBuildDate>
         <atom:link href="https://re0zero.top/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[EXP]]></author>
         <copyright><![CDATA[EXP]]></copyright>
@@ -70,7 +70,7 @@
 | ダドリー | 达德利 | - | 第七章 | 罗兹瓦尔 潜入 佛拉基亚 时用的假名 |
 | ？ | 卡萝・雷玫迪斯 | - | Ex 剑鬼恋歌 | 罗兹瓦尔・J 的护卫剑士 |
 | ペトラ・レイテ | 佩特拉・雷蒂 | - | 第二章 | 罗兹瓦尔宅邸女仆 |
-| オットー・スーウェン | 奥托・苏文 | - | 第三章 | 商人，“战神” |
+| オットー・スーウェン | 奥托・苏文 | - | 第三章 | 商人，『战神』，爱蜜莉娅阵营的『武斗派内政官』 |
 | フレデリカ・バウマン | 法兰黛莉卡・鲍曼 | - | 第四章 | 加菲尔 的姐姐 |
 | ガーフィール・ティンゼル | 加菲尔・汀泽尔 | 加菲 | 第二章 | 『圣域之盾』『黄金之虎』『半兽人』，法兰黛莉卡 的弟弟 |
 | ガー坊 | 加小子 | 加菲 | 第二章 | 琉兹 对 加菲尔 的昵称 |
@@ -98,6 +98,7 @@
 | アル | 阿尔 | - | 第三章 | 阿尔德巴兰 的简称 |
 | 兜さん | 头盔先生 | - | 第九章 | 梅莉 对阿尔的 戏称 |
 | 兜ヤロー | 头盔佬 | - | 第九章 | 菲鲁特 对阿尔的 蔑称 |
+| クソ兜ヤロー | 死头盔佬 | - | 第九章 | 菲鲁特 对阿尔再次降格的 蔑称 |
 | 兜野郎 | 头盔佬 | - | 第九章 | 拉珍斯 对阿尔的 蔑称 |
 | リリアナ・マスカレード | 莉莉安娜・马斯可芮德 | - | 第五章 | 『歌姫』 |
 | ハインケル・アストレア | 亨克尔・阿斯特雷亚 | 海因格・阿斯特雷亚 | 第五章 | 莱因哈鲁特 的流氓父亲，他人称为王国的『吃白饭的』 |
@@ -141,7 +142,7 @@
 | セクメト | 塞赫麦特 | - | 第四章 | 『怠惰魔女』 |
 | カーミラ | 卡密拉 | - | 第四章 | 『色欲魔女』 |
 | パンドラ | 潘多拉 | 潘朵拉 | 第四章| 『虚饰魔女』 |
-| ヘクトール | 赫克特 | 赫克托尔 | 第四章 | 『忧郁魔人』 |
+| ヘクトール | 赫克特 | 赫克托尔 | 第四章 | 适应了『忧郁』魔女因子的人，因为是男性，被称为『忧郁魔人』，拥有无需付出代价重写世界的权利 |
 | エルザ・グランヒルテ | 艾尔莎・葛兰西尔特 | - | 第一章 | 『吸血鬼』，暗杀组织 —— 『猎肠者』 |
 | メィリィ・ポートルート | 梅莉・波特鲁特 | - | 第四章 | 暗杀组织 —— 『魔兽使』 |
 | フリューゲル | 弗琉盖尔 | - | 第三章 | 三英杰 —— 『大贤人』，疑似也是从 昴 的世界被召唤过来的人 |
@@ -150,13 +151,14 @@
 | ボル様 | 波克大人 | - | 第九章 | 雅耶对夺取了『神龙』躯壳的『阿尔德巴兰』的戏称 |
 | シャウラ | 夏乌拉 | 莎乌拉 | 第三章 | 『贤者』，真身是『红蝎』 |
 | クルガン | 库鲁刚 | 库尔刚 | 第五章 | 『八腕斗神』 |
-| シルフィ | 希尔菲 | - | 第五章 | 『184號』，『强欲』大罪司教的其中一个妻子 |
+| シルフィ・コルニアス | 希尔菲・柯尼亚斯 | - | 第三章 | 『184號』，『强欲』大罪司教的其中一个妻子 |
+| シルフィ・エルマート | 希尔菲・艾尔马特 | - | 第九章 | 『184號』，脱离『强欲』掌控后恢复原本姓氏 |
 | 菜月・賢一 | 菜月・贤一 | - | 第二章 | 昴 的父亲 |
 | 菜月・菜穂子 | 菜月・菜穗子 | - | 第四章 | 昴 的母亲 |
 | フォルトナ | 福尔图娜 | - | 第四章 | 爱蜜莉娅 的生母的妹妹，也是 爱蜜莉娅 的养母 |
 | ジュース・ロマネコンティ | 修斯・罗曼尼康帝 | - | 第四章 | 爱蜜莉娅 的养父 |
 | アンネローゼ・ミロード | 安妮罗洁・米洛德 | - | 第四章 | 米洛德分家嫡女 |
-| クリンド | 柯林特 | 库林特 | 第四章 | 米洛德分家管家 |
+| クリンド | 柯林特 | 库林特 | 第四章 | 米洛德分家管家，拥有『忧郁』魔女因子，通过献祭「可能对世界的影响」给欧德・拉格纳，能够使用压缩时空穿梭的权能。『忧郁』魔女因子本身处于无主状态，柯林特本人并非大罪司教或忧郁魔人/魔女，但这也使其无法随意使用『忧郁』完整的能力：「无代价重写世界」 |
 | リーシア・ティンゼル | 莉莎・汀泽尔 | - | 第四章 | 法兰黛莉卡 和 加菲尔 姐弟的母亲 |
 | キリタカ・ミュース | 桐鹰・谬丝 | - | 第五章 | 普谬丝商会的会长，拥有『白龙之鳞』佣兵团 |
 | ダイナス | 戴纳斯 | - | 第五章 | 『白龙之鳞』佣兵团团长 |
@@ -5420,7 +5422,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『传说中的一节』]]></title>
+            <title><![CDATA[『传说的一节』]]></title>
             <description><![CDATA[那正是，传说中所述战斗的一个片段。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter090/28.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter090/28.html</guid>
@@ -5434,7 +5436,7 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『备用计划』]]></title>
+            <title><![CDATA[『Plan B』]]></title>
             <description><![CDATA[「——和我说话的时候，好好地看着这边！！」]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter090/30.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter090/30.html</guid>
@@ -5442,20 +5444,20 @@
         </item>
         <item>
             <title><![CDATA[『百分百的工作』]]></title>
-            <description><![CDATA[――巨大的岩块从天空坠落，伴随着如同天崩地裂般的轰鸣声和视觉冲击。是否能简单地称之为「岩块」都成了一个令人质疑的问题。毕竟，这块岩石庞大得不下于百米。与其称之为岩块，不如说它更像是一座悬浮在空中的石山。]]></description>
+            <description><![CDATA[――巨大的岩块从天空坠落，伴随着如同天崩地裂般的轰鸣声和视觉冲击。是否能简单地称之为『岩块』都成了一个令人质疑的问题。毕竟，这块岩石庞大得不下于百米。与其称之为岩块，不如说它更像是一座悬浮在空中的石山。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter090/31.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter090/31.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『名为克林特的男人』]]></title>
+            <title><![CDATA[『名为柯林特的男人』]]></title>
             <description><![CDATA[――在阿尔德巴兰一行不懈地被强敌追击的同时，王国中仍有两个现场正在进行着不亚于此的激战。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter090/32.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter090/32.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『名为佩特拉·雷蒂的少女』]]></title>
+            <title><![CDATA[『名为佩特拉・雷蒂的少女』]]></title>
             <description><![CDATA[「……可能性，作为代价。」]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter090/33.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter090/33.html</guid>
@@ -5463,20 +5465,20 @@
         </item>
         <item>
             <title><![CDATA[『引力』]]></title>
-            <description><![CDATA[柯林特的「瞬移」——他自己称之为「压缩」的能力，对于佩特拉而言，已经是一个月前的体验，而对于梅莉来说，则仅仅是几天前的事。]]></description>
+            <description><![CDATA[柯林特的『瞬移』——他自己称之为『压缩』的能力，对于佩特拉而言，已经是一个月前的体验，而对于梅莉来说，则仅仅是几天前的事。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter090/34.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter090/34.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『觉醒之星』]]></title>
-            <description><![CDATA[――当雷姆抵达罗兹瓦尔宅邸时，她心中却毫无「回到家」的实感。]]></description>
+            <description><![CDATA[――当雷姆抵达罗兹瓦尔宅邸时，她心中却毫无『回到家』的实感。]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter090/35.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter090/35.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『命题』]]></title>
+            <title><![CDATA[『使命』]]></title>
             <description><![CDATA[「对不起，我给您添了很大的麻烦……」]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter090/36.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter090/36.html</guid>
@@ -5495,8 +5497,8 @@
             <dc:creator><![CDATA[EXP]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『胡蝶之夢』（色欲 IF 线）]]></title>
-            <description><![CDATA[蝴蝶之夢，你是否知道這是什麼意思呢？]]></description>
+            <title><![CDATA[『胡蝶之梦』（色欲 IF 线）]]></title>
+            <description><![CDATA[蝴蝶之梦，你是否知道这是什么意思呢？]]></description>
             <link>https://re0zero.top/gitbook/book/markdown/ch/chapter999/if/01.html</link>
             <guid isPermaLink="true">https://re0zero.top/gitbook/book/markdown/ch/chapter999/if/01.html</guid>
             <dc:creator><![CDATA[EXP]]></dc:creator>
