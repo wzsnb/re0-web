@@ -746,7 +746,7 @@
 	* [33　『名为佩特拉・雷蒂的少女』](markdown/ch/chapter090/33.md)
 	* [34　『引力』](markdown/ch/chapter090/34.md)
 	* [35　『觉醒之星』](markdown/ch/chapter090/35.md)
-	* [36　『命题』](markdown/ch/chapter090/36.md)
+	* [36　『使命』](markdown/ch/chapter090/36.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
 		* [01　『胡蝶之夢』（色欲 IF 线）](markdown/ch/chapter999/if/01.md)
