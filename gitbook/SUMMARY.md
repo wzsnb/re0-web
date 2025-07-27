@@ -747,7 +747,7 @@
 	* [34　『引力』](markdown/ch/chapter090/34.md)
 	* [35　『觉醒之星』](markdown/ch/chapter090/35.md)
 	* [36　『使命』](markdown/ch/chapter090/36.md)
-	* [37　『心灵设定』](markdown/ch/chapter090/37.md)
+	* [37　『思维模式』](markdown/ch/chapter090/37.md)
 	* [38　『被烈日灼烧』](markdown/ch/chapter090/38.md)
 	* [39　『最后的界限』](markdown/ch/chapter090/39.md)
 	* [40　『闪电雷姆尼德』](markdown/ch/chapter090/40.md)
