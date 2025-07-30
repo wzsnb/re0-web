@@ -750,7 +750,7 @@
 	* [37　『思维模式』](markdown/ch/chapter090/37.md)
 	* [38　『被烈日灼烧』](markdown/ch/chapter090/38.md)
 	* [39　『最后的界限』](markdown/ch/chapter090/39.md)
-	* [40　『闪电雷姆尼德』](markdown/ch/chapter090/40.md)
+	* [40　『雷姆闪光弹』](markdown/ch/chapter090/40.md)
 	* [41　『告知篡夺者』](markdown/ch/chapter090/41.md)
 * [ReZeroEX （外传合辑）](markdown/ch/chapter999/README.md)
 	* [IF 线合集](markdown/ch/chapter999/if/README.md)
